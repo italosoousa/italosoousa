@@ -18,4 +18,11 @@
 
 ### O que você vai encontrar nos meus projetos:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-Soousa&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-Soousa&layout=compact)]
+
+# 💻 Sobre Mim  
+
+Sou estudante de **Ciência da Computação**, apaixonado por **vôlei**, **videogames** e minha **família**. Tenho como objetivo estudar diariamente e me dedicar ao máximo para construir a carreira que desejo.  
+
+🚀 Gosto de aprender coisas novas e me aventurar em jornadas que contribuam para o meu crescimento **pessoal** e **profissional**.  
+
