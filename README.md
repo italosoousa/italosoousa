@@ -27,7 +27,7 @@
 
 ### O que você vai encontrar nos meus projetos:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-Soousa&layout=compact)] 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-Soousa&layout=compact)
 
 # 💻 Sobre Mim  
 
