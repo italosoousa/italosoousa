@@ -1,6 +1,6 @@
 # 👋 Olá! Meu nome é Ítalo Sousa
 
-🚀 Estudante de **Ciência da Computação**, apaixonado por tecnologia, voleibol, videogames e minha família.  
+🚀 Estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia, voleibol, videogames e minha família.  
 Tenho como objetivo estudar diariamente e me dedicar ao máximo para construir a carreira que desejo.
 
 ---
@@ -38,12 +38,6 @@ Tenho como objetivo estudar diariamente e me dedicar ao máximo para construir a
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-
----
-
-## 📌 Sobre Mim
-✨ Gosto de aprender coisas novas e me aventurar em jornadas que contribuam para o meu crescimento **pessoal** e **profissional**.  
-🎯 Minha missão é evoluir como desenvolvedor e construir soluções que realmente façam a diferença.
 
 ---
 
